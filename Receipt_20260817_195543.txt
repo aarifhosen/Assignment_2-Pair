@@ -1,0 +1,18 @@
+=============================================
+           THE GRAND BISTRO RECEIPT
+=============================================
+Date: 2026-08-17 19:55:43
+Order Type: Delivery
+---------------------------------------------
+Pepperoni Feast Pizza     x5   $120.00
+French Fries (Large)      x20  $110.00
+Chocolate Lava Cake       x5   $42.50
+---------------------------------------------
+Subtotal        : $272.50
+Discount        : -$0.00
+Tax (6%)        : $16.35
+Delivery Fee    : $5.00
+TOTAL PAID      : $293.85
+Change Given    : $0.00
+=============================================
+      Thank you for your order!
